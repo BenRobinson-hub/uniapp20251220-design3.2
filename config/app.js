@@ -14,20 +14,20 @@ module.exports = {
 	// #ifdef MP || APP-PLUS
 	// 请求域名 格式： https://您的域名
 	// HTTP_REQUEST_URL: `https://您的域名`,
-	WX_ACCOUNT_ID:'68e9c998-e93b-4093-ab7f-b3b200f44ef9',
-	HTTP_REQUEST_URL: `https://qimai.naturecare.top/qimai_biz`,
+	WX_ACCOUNT_ID:'ff9ec711-1cf6-4edb-8aac-b3b900c108cd',
+	HTTP_REQUEST_URL: `https://core.naturecare.top/design`,
 	// 长连接 格式：wss://您的域名 
 	// VUE_APP_WS_URL: `wss://您的域名/ws`,
-	VUE_APP_WS_URL: `wss://qimai.naturecare.top/qimai_biz/ws`,
+	VUE_APP_WS_URL: `wss://core.naturecare.top/design/ws`,
 	// #endif
 	// H5配置
 	// #ifdef H5
 	//H5接口是浏览器地址，非单独部署不用修改
 	// HTTP_REQUEST_URL:  window.location.protocol + "//" + window.location.host,
-	HTTP_REQUEST_URL: `https://qimai.naturecare.top/qimai_biz`,
+	HTTP_REQUEST_URL: `https://core.naturecare.top/design`,
 	// 长连接地址，非单独部署不用修改
 	// VUE_APP_WS_URL: `ws://${window.location.host}/ws`,
-	VUE_APP_WS_URL: `wss://qimai.naturecare.top/qimai_biz/ws`,
+	VUE_APP_WS_URL: `wss://core.naturecare.top/design/ws`,
 	// #endif
 
 

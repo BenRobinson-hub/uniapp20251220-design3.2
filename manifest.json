@@ -1,7 +1,7 @@
 {
-    "name" : "qimai3.2_pro_uniapp",
+    "name" : "design3.2_pro_uniapp",
     "appid" : "__UNI__528262C",
-    "description" : "炁脉调理",
+    "description" : "节律文明",
     "versionName" : "3.2.0",
     "versionCode" : 320,
     "transformPx" : false,
@@ -177,7 +177,7 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "wx6d5ef4cfa9c6ee76",
+        "appid" : "wx84bd2feac67b0217",
         "setting" : {
             "urlCheck" : false,
             "minified" : true,
